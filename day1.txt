@@ -2,3 +2,7 @@ B23 is learining git
 
 we just made our first commit
 yay!!
+
+
+
+Git keep track of changes from the last point you made comiit till the current 
